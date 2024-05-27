@@ -1,5 +1,7 @@
-﻿## ====Jogo da Advinhação====
+﻿# ====Jogo da Advinhação====
 
-por Klint Burzlaff Berta Lemes
+## Klint Burzlaff Berta Lemes
 
-atividade proposta por Professor Éder de Rosso
+### atividade proposta por Professor Éder de Rosso
+
+### Colégio ULBRA são lucas
